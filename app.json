@@ -1,4 +1,4 @@
 {
   "banks": ["Chase", "Discover", "Citi", "Bank of America", "Wells Fargo", "Capital One", "US Bank"],
-  "type": ["grocery", "restaurant", "food", "fuel", "gas"]
+  "type": ["grocery", "restaurant", "food", "fuel", "gas", "apartments"]
 }
